@@ -1,0 +1,52 @@
+Index,MovieID,Title,Director,Genre,ReleaseYear,Budget (Crores),BoxOffice (Crores),Rating,Duration (minutes),LeadActor,LeadActress,Language,ProductionCompany
+1,MOV002,Kabhi Khushi Kabhie Gham...,Karan Johar,Family Drama,2001,50.0,100.0,7.9,210,Shah Rukh Khan,Kajol,Hindi,Dharma Productions
+2,MOV003,M.S. Dhoni: The Untold Story,Neeraj Pandey,Biographical Sports Drama,2016,91.0,215.0,7.9,184,Sushant Singh Rajput,Kiara Advani,Hindi,Fox Star Studios
+3,MOV004,Baahubali 2: The Conclusion,S. S. Rajamouli,Epic Fantasy Action,2017,250.0,1810.0,8.2,171,Prabhas,Anushka Shetty,Telugu,Arka Media Works
+4,MOV005,Chennai Express,Rohit Shetty,Action Comedy,2013,91.0,423.0,6.4,141,Shah Rukh Khan,Deepika Padukone,Hindi,Red Chillies Entertainment
+5,MOV006,Bharat,Ali Abbas Zafar,Drama,2019,100.0,325.0,6.8,156,Salman Khan,Katrina Kaif,Hindi,Reel Life Productions
+6,MOV007,Dangal,Nitesh Tiwari,Biographical Sports Drama,2016,70.0,2140.0,8.1,161,Aamir Khan,Fatima Sana Shaikh,Hindi,Aamir Khan Productions
+7,MOV008,Sarkar (Tamil),A. R. Murugadoss,Action Thriller,2005,91.0,374.0,7.5,173,Vijay,Keerthy Suresh,Tamil,Kalaignar TV
+8,MOV009,PK,Rajkumar Hirani,Satirical Science Fiction Comedy,2014,85.0,792.0,8.1,153,Aamir Khan,Anushka Sharma,Hindi,Vinod Chopra Films
+9,MOV010,2.0 (Tamil),S. Shankar,Science Fiction Action,2018,550.0,800.0,6.9,147,Rajinikanth,Amy Jackson,Tamil,Lyca Productions
+10,MOV011,Bajirao Mastani,Sanjay Leela Bhansali,Historical Romance,2015,120.0,565.0,7.5,158,Ranveer Singh,Deepika Padukone,Hindi,SLB Films
+11,MOV012,Dilwale Dulhania Le Jayenge,Aditya Chopra,Romance,1995,91.0,374.0,7.7,189,Shah Rukh Khan,Kajol,Hindi,Yash Raj Films
+12,MOV013,Krrish 3,Rakesh Roshan,Superhero Science Fiction,2013,115.0,530.0,5.5,152,Hrithik Roshan,Priyanka Chopra,Hindi,Filmkraft Productions
+13,MOV014,Raees,Rahul Dholakia,Action Thriller,2017,85.0,395.0,7.2,143,Shah Rukh Khan,Mahira Khan,Hindi,Red Chillies Entertainment
+14,MOV015,Tiger Zinda Hai,Ali Abbas Zafar,Action Thriller,2017,150.0,565.0,6.9,161,Salman Khan,Katrina Kaif,Hindi,Yash Raj Films
+15,MOV016,Baaghi 2,Ahmed Khan,Action Thriller,2018,60.0,254.0,6.3,148,Tiger Shroff,Disha Patani,Hindi,Nadiadwala Grandson Entertainment
+16,MOV017,Thugs of Hindostan,Vijay Krishna Acharya,Action-Adventure,2018,300.0,335.0,4.5,167,Amitabh Bachchan,Aamir Khan,Hindi,Yash Raj Films
+17,MOV018,Gully Boy,Zoya Akhtar,Musical Drama,2019,40.0,238.0,7.8,153,Ranveer Singh,Alia Bhatt,Hindi,Excel Entertainment
+18,MOV019,War,Siddharth Anand,Action Thriller,2019,150.0,475.0,6.8,154,Hrithik Roshan,Tiger Shroff,Hindi,Yash Raj Films
+19,MOV020,Tanaji: The Unsung Warrior,Om Raut,Historical Action,2020,150.0,368.0,7.1,135,Ajay Devgn,Kajol,Hindi,Ajay Devgn FFilms
+20,MOV021,Bahubali: The Beginning,S. S. Rajamouli,Epic Fantasy Action,2015,180.0,650.0,8.1,159,Prabhas,Tamannaah,Telugu,Arka Media Works
+21,MOV022,K.G.F: Chapter 1,Prashanth Neel,Action Drama,2018,50.0,250.0,7.9,156,Yash,Srinidhi Shetty,Kannada,Hombale Films
+22,MOV023,Sye Raa Narasimha Reddy,Surender Reddy,Historical Action,2019,200.0,265.0,7.1,167,Chiranjeevi,Nayanthara,Telugu,Konidela Production Company
+23,MOV024,Avengers: Endgame (Dubbed),"Anthony Russo, Joseph Russo",Superhero,2019,91.0,374.0,8.4,181,Robert Downey Jr.,Scarlett Johansson,"English (Dubbed in Telugu, Kannada, Hindi)",Marvel Studios
+24,MOV025,Jersey,Gowtam Tinnanuri,Sports Drama,2019,20.0,45.0,7.8,160,Nani,Shraddha Srinath,Telugu,Sithara Entertainments
+25,MOV026,Pailwaan,S. Krishna,Sports Action,2019,30.0,55.0,6.8,166,Sudeep,Aakanksha Singh,Kannada,RRR Motion Pictures
+26,MOV027,Geetha Govindam,Parasuram,Romantic Comedy,2018,10.0,130.0,7.4,148,Vijay Deverakonda,Rashmika Mandanna,Telugu,GA2 Pictures
+27,MOV028,Yajamana,"V. Harikrishna, P. Kumar",Action Drama,2019,20.0,40.0,6.3,164,Darshan,Rashmika Mandanna,Kannada,Media House Studio
+28,MOV029,Dear Comrade,Bharat Kamma,Romantic Drama,2019,15.0,35.0,7.1,170,Vijay Deverakonda,Rashmika Mandanna,Telugu,Mythri Movie Makers
+29,MOV030,Gentleman,Jadesh Kumar,Action Thriller,2019,10.0,20.0,6.1,145,Puneeth Rajkumar,Nishvika Naidu,Kannada,Sri Jagadguru Movies
+30,MOV031,Saaho,Sujeeth,Action Thriller,2019,300.0,450.0,6.5,170,Prabhas,Shraddha Kapoor,"Telugu (Dubbed in Hindi, Kannada)",UV Creations
+31,MOV032,Kavaludaari,Hemanth M. Rao,Thriller,2019,5.0,10.0,7.4,118,Rishi,Anant Nag,Kannada,PNK Productions
+32,MOV033,96 (Kannada Dubbed),C. Premkumar,Romantic Drama,2019,91.0,374.0,7.9,158,Vijay Sethupathi,Trisha,Kannada (Dubbed from Tamil),Madras Enterprises
+33,MOV034,Sarileru Neekevvaru,Anil Ravipudi,Action Comedy,2020,75.0,260.0,7.1,169,Mahesh Babu,Rashmika Mandanna,Telugu,AK Entertainments
+34,MOV035,Dabangg 3 (Dubbed),Prabhu Deva,Action Comedy,2019,91.0,374.0,5.8,159,Salman Khan,Sonakshi Sinha,Telugu (Dubbed from Hindi),S. K. Film Enterprises
+35,MOV036,Bheeshma,Venky Kudumula,Romantic Comedy,2020,20.0,50.0,7.4,145,Nithiin,Rashmika Mandanna,Telugu,Sithara Entertainments
+36,MOV037,Shylock (Kannada Dubbed),Ajai Vasudev,Action Thriller,2020,91.0,374.0,6.8,164,Mammootty,Rajkiran,Kannada (Dubbed from Malayalam),Vrindaavan Films
+37,MOV038,Love Aaj Kal (Dubbed),Imtiaz Ali,Romantic Drama,2020,91.0,374.0,4.4,141,Kartik Aaryan,Sara Ali Khan,Telugu (Dubbed from Hindi),Reliance Entertainment
+38,MOV039,Forensic (Kannada Dubbed),"Akhil Paul, Anas Khan",Thriller,2020,91.0,374.0,6.9,129,Tovino Thomas,Mamta Mohandas,Kannada (Dubbed from Malayalam),Evil Eye Pictures
+39,MOV040,Trance (Kannada Dubbed),Anwar Rasheed,Psychological Thriller,2020,91.0,374.0,7.1,162,Fahadh Faasil,Nazriya Nazim,Kannada (Dubbed from Malayalam),Dulquer Salmaan Productions
+42,MOV043,Lagaan,Ashutosh Gowariker,Historical Sports Drama,2001,25.0,67.0,8.1,224,Aamir Khan,Gracy Singh,Hindi,Aamir Khan Productions
+43,MOV044,Baahubali: The Beginning,S. S. Rajamouli,Epic Fantasy Action,2015,180.0,650.0,8.1,159,Prabhas,Tamannaah,Telugu,Arka Media Works
+44,MOV045,3 Idiots,Rajkumar Hirani,Comedy Drama,2009,35.0,460.0,8.4,171,Aamir Khan,Kareena Kapoor,Hindi,Vidhu Vinod Chopra Productions
+45,MOV046,Aruvi,Arun Prabu Purushothaman,Drama,2016,1.0,5.0,8.1,144,Aditi Balan,Lakshmi Gopalswamy,Tamil,Dream Warrior Pictures
+46,MOV047,Dabangg,Abhinav Kashyap,Action Comedy,2010,30.0,215.0,6.3,126,Salman Khan,Sonakshi Sinha,Hindi,Arbaaz Khan Productions
+47,MOV048,The Dirty Picture,Milan Luthria,Biographical Drama,2011,18.0,85.0,6.8,144,Vidya Balan,Naseeruddin Shah,Hindi,Balaji Motion Pictures 
+48,MOV049,U Turn,Pawan Kumar,Thriller,2016,5.0,20.0,7.9,128,Shraddha Srinath,Dilip Raj,Kannada,PRK Productions
+49,MOV050,Yeh Jawaani Hai Deewani,Ayan Mukerji,Romantic Comedy,2013,50.0,318.0,7.5,159,Ranbir Kapoor,Deepika Padukone,Hindi,Dharma Productions
+50,MOV051,Kahaani,Sujoy Ghosh,Thriller,2012,8.0,79.0,8.1,122,Vidya Balan,Parambrata Chatterjee,Hindi,Boundscript Motion Pictures 
+52,MOV053,Hindi Medium,Saket Chaudhary,Comedy Drama,2017,23.0,69.0,7.5,132,Irrfan Khan,Saba Qamar,Hindi,T-Series 
+53,MOV054,Toilet: Ek Prem Katha,Shree Narayan Singh,Satirical Comedy,2017,24.0,216.0,7.3,155,Akshay Kumar,Bhumi Pednekar,Hindi,Viacom 18 Motion Pictures 
+54,MOV055,Badhaai Ho,Amit Ravindernath Sharma,Comedy Drama,2018,22.0,221.0,7.9,124,Ayushmann Khurrana,Sanya Malhotra,Hindi,Junglee Pictures 

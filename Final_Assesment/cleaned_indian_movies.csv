@@ -1,0 +1,18 @@
+Index,MovieID,Title,Director,Genre,ReleaseYear,Budget (Crores),BoxOffice (Crores),Rating,Duration (minutes),LeadActor,LeadActress,Language,ProductionCompany
+7,MOV008,Sarkar (Tamil),A. R. Murugadoss,Action Thriller,2005,112.0,208.0,7.5,173.0,Vijay,Keerthy Suresh,Tamil,Kalaignar TV
+9,MOV010,2.0 (Tamil),S. Shankar,Science Fiction Action,2018,550.0,800.0,6.9,147.0,Rajinikanth,Amy Jackson,Tamil,Lyca Productions
+21,MOV022,K.G.F: Chapter 1,Prashanth Neel,Action Drama,2018,50.0,250.0,7.9,156.0,Yash,Srinidhi Shetty,Kannada,Hombale Films
+23,MOV024,Avengers: Endgame (Dubbed),"Anthony Russo, Joseph Russo",Superhero,2019,112.0,208.0,8.4,181.0,Robert Downey Jr.,Scarlett Johansson,"English (Dubbed in Telugu, Kannada, Hindi)",Marvel Studios
+25,MOV026,Pailwaan,S. Krishna,Sports Action,2019,30.0,55.0,6.8,154.0,Sudeep,Aakanksha Singh,Kannada,RRR Motion Pictures
+27,MOV028,Yajamana,"V. Harikrishna, P. Kumar",Action Drama,2019,20.0,40.0,6.3,164.0,Darshan,Rashmika Mandanna,Kannada,Media House Studio
+29,MOV030,Gentleman,Jadesh Kumar,Action Thriller,2019,10.0,20.0,6.1,145.0,Puneeth Rajkumar,Nishvika Naidu,Kannada,Sri Jagadguru Movies
+30,MOV031,Saaho,Sujeeth,Action Thriller,2019,300.0,450.0,7.0,170.0,Prabhas,Shraddha Kapoor,"Telugu (Dubbed in Hindi, Kannada)",UV Creations
+31,MOV032,Kavaludaari,Hemanth M. Rao,Thriller,2019,5.0,10.0,7.4,118.0,Rishi,Anant Nag,Kannada,PNK Productions
+32,MOV033,96 (Kannada Dubbed),C. Premkumar,Romantic Drama,2019,112.0,208.0,7.9,158.0,Vijay Sethupathi,Trisha,Kannada (Dubbed from Tamil),Madras Enterprises
+34,MOV035,Dabangg 3 (Dubbed),Prabhu Deva,Action Comedy,2019,112.0,208.0,5.8,159.0,Salman Khan,Sonakshi Sinha,Telugu (Dubbed from Hindi),S. K. Film Enterprises
+36,MOV037,Shylock (Kannada Dubbed),Ajai Vasudev,Action Thriller,2020,112.0,208.0,6.8,164.0,Mammootty,Rajkiran,Kannada (Dubbed from Malayalam),Vrindaavan Films
+37,MOV038,Love Aaj Kal (Dubbed),Imtiaz Ali,Romantic Drama,2020,112.0,208.0,4.4,141.0,Kartik Aaryan,Sara Ali Khan,Telugu (Dubbed from Hindi),Reliance Entertainment
+38,MOV039,Forensic (Kannada Dubbed),"Akhil Paul, Anas Khan",Thriller,2020,112.0,208.0,6.9,129.0,Tovino Thomas,Mamta Mohandas,Kannada (Dubbed from Malayalam),Evil Eye Pictures
+39,MOV040,Trance (Kannada Dubbed),Anwar Rasheed,Psychological Thriller,2020,112.0,208.0,7.1,162.0,Fahadh Faasil,Nazriya Nazim,Kannada (Dubbed from Malayalam),Dulquer Salmaan Productions
+41,MOV042,K.G.F: Chapter 1,Prashanth Neel,Action Drama,2018,50.0,250.0,7.9,156.0,Yash,Srinidhi Shetty,Kannada,Hombale Films
+45,MOV046,Aruvi,Arun Prabu Purushothaman,Drama,2016,1.0,5.0,8.1,144.0,Aditi Balan,Lakshmi Gopalswamy,Tamil,Dream Warrior Pictures
